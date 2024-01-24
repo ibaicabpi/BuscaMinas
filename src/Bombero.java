@@ -55,8 +55,10 @@ public class Bombero {
         // TODO: ponerAlgunasBombasDONE
     }
 
-    private void todoSonBombas(int numFilas, int numColumnas){
-        // TODO: todoSonBombas
+    private void todoSonBombas(int numFilas, int numColumnas) {
+        for (int i = 0; i < posiciones.length; i++) {
+            // TODO: todoSonBombas
+        }
     }
 
     private void eliminarBombas(int n){
